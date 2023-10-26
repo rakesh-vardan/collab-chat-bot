@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "botbuilder": "~4.11.0",
-        "botbuilder-dialogs": "~4.11.0",
+        "botbuilder-dialogs": "~4.21.0",
         "dotenv": "^8.2.0",
         "downloadjs": "^1.4.7",
         "node-fetch": "^2.6.1",
